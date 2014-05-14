@@ -10,3 +10,6 @@ Contains [CTM](https://bitbucket.org/prupe/mcpatcher/downloads) biome specific t
 
 Contains sounds for the [TARDIS](http://dev.bukkit.org/bukkit-plugins/tardis) Bukkit plugin.
 
+##Installation
+
+Click the __Download ZIP__ button to the right, then un-zip the file to your `.minecraft/resourcepacks` folder
