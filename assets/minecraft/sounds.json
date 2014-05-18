@@ -92,5 +92,10 @@
         "sounds": [
             "lazarus_machine"
         ]
+    },
+    "interior_flight": {
+        "sounds": [
+            "interior_flight"
+        ]
     }
 }
