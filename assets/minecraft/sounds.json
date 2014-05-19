@@ -95,7 +95,8 @@
     },
     "interior_flight": {
         "sounds": [
-            "interior_flight"
+            "interior_flight",
+            "interior_flight_1"
         ]
     }
 }
