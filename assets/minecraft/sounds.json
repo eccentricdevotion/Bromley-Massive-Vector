@@ -98,5 +98,15 @@
             "interior_flight",
             "interior_flight_1"
         ]
+    },
+    "power_up": {
+        "sounds": [
+            "power_up"
+        ]
+    },
+    "power_down": {
+        "sounds": [
+            "power_down"
+        ]
     }
 }
