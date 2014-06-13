@@ -109,9 +109,10 @@
             "power_down"
         ]
     },
-    "are_you_my_mummy": {
+    "empty_child": {
         "sounds": [
-            "are_you_my_mummy"
+            "empty_child_mummy",
+            "empty_child_scared"
         ]
     },
     "cyberman": {
