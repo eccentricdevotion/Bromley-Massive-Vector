@@ -201,5 +201,10 @@
         "sounds": [
             "vashta_nerada_lights"
         ]
+    },
+    "silence": {
+        "sounds": [
+            "silence"
+        ]
     }
 }
