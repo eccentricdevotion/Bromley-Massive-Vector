@@ -178,6 +178,12 @@
             "hath"
         ]
     },
+    "silence": {
+        "sounds": [
+            "silence",
+            "silent_rattle"
+        ]
+    },
     "sontaran": {
         "sounds": [
             "sontaran_too_easy",
@@ -200,11 +206,6 @@
     "vashta": {
         "sounds": [
             "vashta_nerada_lights"
-        ]
-    },
-    "silence": {
-        "sounds": [
-            "silence"
         ]
     }
 }
