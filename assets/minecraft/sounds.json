@@ -335,6 +335,7 @@
         ]
     },
     "hath": {
+        "category": "neutral",
         "sounds": [
             "hath"
         ]
@@ -355,7 +356,7 @@
         ]
     },
     "strax": {
-        "category": "hostile",
+        "category": "neutral",
         "sounds": [
             "strax_apathy_1",
             "strax_apathy_2",
@@ -363,6 +364,7 @@
         ]
     },
     "milk": {
+        "category": "neutral",
         "sounds": [
             "strax_lactic"
         ]
@@ -371,6 +373,12 @@
         "category": "hostile",
         "sounds": [
             "vashta_nerada_lights"
+        ]
+    },
+    "blink": {
+        "category": "voice",
+        "sounds": [
+            "blink"
         ]
     }
 }
