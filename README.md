@@ -1,20 +1,20 @@
-#Bromley Massive Vector
+# Bromley Massive Vector
 
-An unreleased (and unfinished — still most of the mobs to do) Resource Pack for Minecraft. It’s [128X], and is compatible with Minecraft 1.11.x
+An unreleased (and unfinished — still most of the mobs to do) Resource Pack for Minecraft. It’s [128X], and is compatible with Minecraft 1.12
 
-##CTM
+## CTM
 
 Contains [CTM](https://bitbucket.org/prupe/mcpatcher/downloads) biome specific textures and custom item textures for the [TARDIS](http://dev.bukkit.org/bukkit-plugins/tardis) Bukkit plugin.
 
-##Sounds
+## Sounds
 
 Contains sounds for the [TARDIS](http://dev.bukkit.org/bukkit-plugins/tardis) Bukkit plugin.
 
-##Installation
+## Installation
 
 Click the green __Clone or download__ button above right, then the __Download ZIP__ link, then un-zip the file to your `.minecraft/resourcepacks` folder
 
-##Alternate installation and keeping up-to-date
+## Alternate installation and keeping up-to-date
 
 As the TARDIS resource packs are shared in GitHub repositories. If you install a GitHub client, you can easily keep your resource packs current by syncing with any changes that are pushed to the repository.
 
