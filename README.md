@@ -1,6 +1,6 @@
 # Bromley Massive Vector
 
-An unreleased (and unfinished — still most of the mobs to do) Resource Pack for Minecraft. It’s [128X], and is compatible with Minecraft 1.12
+An unreleased (and unfinished — still most of the mobs to do) Resource Pack for Minecraft. It’s [128X], and is compatible with Minecraft 1.13 snapshots
 
 ## CTM
 
