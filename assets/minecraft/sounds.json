@@ -396,5 +396,14 @@
             "k9_quicker",
             "k9_the_doctor"
         ]
+    },
+    "handles": {
+        "category": "voice",
+        "sounds": [
+            "handles_fault_1",
+            "handles_fault_2",
+            "handles_attention",
+            "handles_urgent"
+        ]
     }
 }
