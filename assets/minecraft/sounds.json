@@ -406,5 +406,10 @@
             "handles_attention",
             "handles_urgent"
         ]
+    },
+    "handles_scanner": {
+        "sounds": [
+            "handles_scanner"
+        ]
     }
 }
