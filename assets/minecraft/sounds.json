@@ -407,6 +407,12 @@
             "handles_urgent"
         ]
     },
+    "handles_reminder": {
+        "category": "voice",
+        "sounds": [
+            "handles_reminder"
+        ]
+    },
     "handles_scanner": {
         "sounds": [
             "handles_scanner"
