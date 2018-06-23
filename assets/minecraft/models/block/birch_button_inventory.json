@@ -1,6 +1,6 @@
 {
     "parent": "block/birch_button",
     "textures": {
-        "texture": "blocks/handles_front"
+        "texture": "block/handles_front"
     }
 }
