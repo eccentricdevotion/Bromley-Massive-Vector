@@ -452,11 +452,5 @@
             "handles_information",
             "handles_reminder"
         ]
-    },
-    "handles_reminder": {
-        "category": "voice",
-        "sounds": [
-            "handles_reminder"
-        ]
     }
 }
