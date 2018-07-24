@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "misc/sonic"
+        "layer0": "./sonic"
     },
     "display": {
         "thirdperson_righthand": {
