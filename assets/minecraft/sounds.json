@@ -452,5 +452,15 @@
             "handles_information",
             "handles_reminder"
         ]
+    },
+    "handles_scanner": {
+        "sounds": [
+            "handles_scanner"
+        ]
+    },
+    "handles_confirmed": {
+        "sounds": [
+            "handles_confirmed"
+        ]
     }
 }
