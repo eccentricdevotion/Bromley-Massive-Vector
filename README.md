@@ -1,10 +1,10 @@
 # Bromley Massive Vector
 
-An unreleased (and unfinished — still most of the mobs to do) Resource Pack for Minecraft. It’s [128X], and is compatible with Minecraft 1.13 snapshots
+An unreleased (and unfinished — still most of the mobs to do) Resource Pack for Minecraft. It’s [128X], and is compatible with Minecraft 1.13.x.
 
 ## CTM
 
-Contains [CTM](https://bitbucket.org/prupe/mcpatcher/downloads) biome specific textures and custom item textures for the [TARDIS](http://dev.bukkit.org/bukkit-plugins/tardis) Bukkit plugin.
+Contains [CTM](https://bitbucket.org/prupe/mcpatcher/downloads) biome specific textures and custom item textures for the [TARDIS](http://dev.bukkit.org/bukkit-plugins/tardis), [TARDISVortexManipualtor](https://dev.bukkit.org/projects/tardisvortexmanipulator) and [TARDISWeepingAngels](https://dev.bukkit.org/projects/tardisweepingangels) Bukkit/Spigot plugins.
 
 ## Sounds
 
