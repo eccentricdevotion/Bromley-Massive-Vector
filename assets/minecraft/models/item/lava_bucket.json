@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/lava_still",
-		"1": "block/bucket"
+		"1": "item/bucket_side"
 	},
 	"elements": [
 		{
@@ -121,5 +121,8 @@
 		"fixed": {
 			"rotation": [0, 180, 0]
 		}
-	}
+	},
+    "overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/planets/rust_bucket"}
+	]
 }

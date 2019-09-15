@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "axis=y":  { "model": "quartz_lines" },
-        "axis=z":   { "model": "quartz_lines", "x": 270 },
-        "axis=x":   { "model": "quartz_lines", "x": 270, "y": 270 }
-    }
-}
-
