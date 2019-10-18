@@ -1,10 +1,10 @@
 # Bromley Massive Vector
 
-An unreleased (and unfinished — still most of the mobs to do) Resource Pack for Minecraft. It’s [128X], and is compatible with Minecraft 1.13.x.
+An unreleased (and unfinished — still most of the mobs to do) Resource Pack for Minecraft. It’s [128X], and is compatible with Minecraft 1.14.x and TARDIS v4.2.x.
 
 ## CTM
 
-Contains [CTM](https://bitbucket.org/prupe/mcpatcher/downloads) biome specific textures and custom item textures for the [TARDIS](http://dev.bukkit.org/bukkit-plugins/tardis), [TARDISVortexManipualtor](https://dev.bukkit.org/projects/tardisvortexmanipulator) and [TARDISWeepingAngels](https://dev.bukkit.org/projects/tardisweepingangels) Bukkit/Spigot plugins.
+Contains [CTM](https://optifine.net/downloads) biome specific textures and custom item textures for the [TARDIS](http://dev.bukkit.org/bukkit-plugins/tardis), [TARDISVortexManipualtor](https://dev.bukkit.org/projects/tardisvortexmanipulator) and [TARDISWeepingAngels](https://dev.bukkit.org/projects/tardisweepingangels) Bukkit/Spigot plugins.
 
 ## Sounds
 
@@ -16,7 +16,7 @@ Click the green __Clone or download__ button above right, then the __Download ZI
 
 ## Alternate installation and keeping up-to-date
 
-As the TARDIS resource packs are shared in GitHub repositories. If you install a GitHub client, you can easily keep your resource packs current by syncing with any changes that are pushed to the repository.
+As this resource pack is shared in a GitHub repository, if you install a GitHub client, you can easily keep the resource pack current by syncing with any changes that are pushed to the repository.
 
 Here's a quick run down on doing that:
 
@@ -25,11 +25,12 @@ Here's a quick run down on doing that:
    * [GitHub for Windows](https://windows.github.com/)
 2. Start GitHub client and create a free GitHub account (if you don’t have one)
 3. In your web browser, navigate to the TARDIS resource pack repositories
-   * [Bromley Massive Vector](https://github.com/eccentricdevotion/Bromley-Massive-Vector)
-   * [TARDIS-MCP](https://github.com/eccentricdevotion/TARDIS-MCP)
+   * Bromley Massive Vector (You are here)
+   * [TARDIS-Resource-Pack](https://github.com/eccentricdevotion/TARDIS-Resource-Pack)
    * [TARDIS-Sounds](https://github.com/eccentricdevotion/TARDIS-SoundResourcePack)
    * [Skaro](https://github.com/eccentricdevotion/Skaro)
-   * [TARDISWeepingAngels](https://github.com/eccentricdevotion/TARDISWeepingAngels-Resource-Pack)
+   * [Gallifrey](https://github.com/eccentricdevotion/Gallifrey)
+   * [TARDISWeepingAngels](https://github.com/eccentricdevotion/TARDISWeepingAngels-Resource-Pack) - you only need this if you _don't_ have the TARDIS-Resource-Pack...
 4. Click the green __Clone or download__ button, then the __Open in Desktop__ link
 5. Save the repository clone in the minecraft/resourcepacks folder
 6. Repeat steps 4 and 5 for each resource pack
