@@ -45,5 +45,6 @@
 		{"predicate": {"custom_model_data":10000042}, "model": "block/chemistry/green_torch"},
 		{"predicate": {"custom_model_data":10000043}, "model": "block/chemistry/purple_torch"},
 		{"predicate": {"custom_model_data":10000044}, "model": "block/chemistry/red_torch"}
+		{"predicate": {"custom_model_data":10000045}, "model": "block/seed/custom"}
     ]
 }

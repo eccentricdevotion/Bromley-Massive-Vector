@@ -48,7 +48,7 @@
 		{"when":{"down":true,"east":false,"north":true,"south":false,"up":true,"west":true},"apply":{"model":"block/chemistry/green_torch"}},
 		{"when":{"down":true,"east":false,"north":true,"south":true,"up":false,"west":false},"apply":{"model":"block/chemistry/purple_torch"}},
 		{"when":{"down":true,"east":false,"north":true,"south":true,"up":false,"west":true},"apply":{"model":"block/chemistry/red_torch"}},
-		{"when":{"down":true,"east":false,"north":true,"south":true,"up":true,"west":false},"apply":{"model":"block/mushroom/144"}},
+		{"when":{"down":true,"east":false,"north":true,"south":true,"up":true,"west":false},"apply":{"model":"block/seed/custom"}},
 		{"when":{"down":true,"east":false,"north":true,"south":true,"up":true,"west":true},"apply":{"model":"block/mushroom/145"}},
 		{"when":{"down":true,"east":true,"north":false,"south":false,"up":false,"west":false},"apply":{"model":"block/mushroom/146"}},
 		{"when":{"down":true,"east":true,"north":false,"south":false,"up":false,"west":true},"apply":{"model":"block/mushroom/147"}},
