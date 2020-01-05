@@ -455,6 +455,12 @@
             "judoon_fire"
         ]
     },
+    "toclafane": {
+        "category": "hostile",
+        "sounds": [
+            "toclafane"
+        ]
+    },
     "handles": {
         "category": "voice",
         "sounds": [
