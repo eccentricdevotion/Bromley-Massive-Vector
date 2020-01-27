@@ -1,10 +1,14 @@
 {
     "parent": "block/mushroom_stem_inventory",
     "overrides": [
-		{"predicate": {"custom_model_data":10000041}, "model": "block/chemistry/blue_torch"},
-		{"predicate": {"custom_model_data":10000042}, "model": "block/chemistry/green_torch"},
-		{"predicate": {"custom_model_data":10000043}, "model": "block/chemistry/purple_torch"},
-		{"predicate": {"custom_model_data":10000044}, "model": "block/chemistry/red_torch"},
+		{"predicate": {"custom_model_data":10000037}, "model": "block/chemistry/blue_lamp_on"},
+		{"predicate": {"custom_model_data":10000038}, "model": "block/chemistry/green_lamp_on"},
+		{"predicate": {"custom_model_data":10000039}, "model": "block/chemistry/purple_lamp_on"},
+		{"predicate": {"custom_model_data":10000040}, "model": "block/chemistry/red_lamp_on"},
+		{"predicate": {"custom_model_data":10000041}, "model": "block/chemistry/blue_lamp"},
+		{"predicate": {"custom_model_data":10000042}, "model": "block/chemistry/green_lamp"},
+		{"predicate": {"custom_model_data":10000043}, "model": "block/chemistry/purple_lamp"},
+		{"predicate": {"custom_model_data":10000044}, "model": "block/chemistry/red_lamp"},
 		{"predicate": {"custom_model_data":10000045}, "model": "block/seed/custom"},
 		{"predicate": {"custom_model_data":10000046}, "model": "block/tardis/hexagon"},
 		{"predicate": {"custom_model_data":10000047}, "model": "block/tardis/roundel"},

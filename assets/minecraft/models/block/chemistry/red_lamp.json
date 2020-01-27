@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "block/mushroom/138"
+        "all": "block/chemistry/red_lamp"
     }
 }
