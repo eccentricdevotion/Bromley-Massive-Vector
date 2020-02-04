@@ -46,6 +46,10 @@
 		{"predicate": {"custom_model_data":40}, "model": "item/gui/repeater/telepathic_circuit_on"},
 		{"predicate": {"custom_model_data":41}, "model": "item/gui/repeater/junk_tardis_on"},
 		{"predicate": {"custom_model_data":42}, "model": "item/gui/repeater/auto_power_up_on"},
+		{"predicate": {"custom_model_data":43}, "model": "item/gui/repeater/force_field_on"},
+		{"predicate": {"custom_model_data":44}, "model": "item/gui/repeater/lanterns_on"},
+		{"predicate": {"custom_model_data":45}, "model": "item/gui/repeater/minecart_on"},
+		{"predicate": {"custom_model_data":46}, "model": "item/gui/repeater/easy_diff_on"},
 		{"predicate": {"custom_model_data":101}, "model": "item/gui/repeater/allow_off"},
 		{"predicate": {"custom_model_data":102}, "model": "item/gui/repeater/arch_off"},
 		{"predicate": {"custom_model_data":103}, "model": "item/gui/repeater/archive_off"},
@@ -87,6 +91,10 @@
 		{"predicate": {"custom_model_data":139}, "model": "item/gui/repeater/mob_farming_off"},
 		{"predicate": {"custom_model_data":140}, "model": "item/gui/repeater/telepathic_circuit_off"},
 		{"predicate": {"custom_model_data":141}, "model": "item/gui/repeater/junk_tardis_off"},
-		{"predicate": {"custom_model_data":142}, "model": "item/gui/repeater/auto_power_up_off"}
+		{"predicate": {"custom_model_data":142}, "model": "item/gui/repeater/auto_power_up_off"},
+		{"predicate": {"custom_model_data":143}, "model": "item/gui/repeater/force_field_off"},
+		{"predicate": {"custom_model_data":144}, "model": "item/gui/repeater/lanterns_off"},
+		{"predicate": {"custom_model_data":145}, "model": "item/gui/repeater/minecart_off"},
+		{"predicate": {"custom_model_data":146}, "model": "item/gui/repeater/easy_diff_off"}
 	]
 }
