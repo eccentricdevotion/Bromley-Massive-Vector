@@ -1,8 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/filled_map",
-        "layer1": "item/filled_map_markings"
+        "layer0": "item/glowstone_dust"
     },
     "overrides": [
       {"predicate": {"custom_model_data":10001963}, "model": "item/circuit/stattenheim"},
@@ -35,6 +34,7 @@
       {"predicate": {"custom_model_data":20001981}, "model": "item/circuit/invisibility_damaged"},
       {"predicate": {"custom_model_data":10001982}, "model": "item/circuit/ignite"},
       {"predicate": {"custom_model_data":10001983}, "model": "item/circuit/rift"},
-      {"predicate": {"custom_model_data":10001984}, "model": "item/circuit/pickup"}
+      {"predicate": {"custom_model_data":10001984}, "model": "item/circuit/pickup"},
+      {"predicate": {"custom_model_data":10001985}, "model": "item/circuit/gallifrey"}
   	]
 }

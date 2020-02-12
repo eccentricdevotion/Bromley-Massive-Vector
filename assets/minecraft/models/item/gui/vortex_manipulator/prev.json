@@ -2,7 +2,7 @@
 	"parent": "item/gui/gui_item",
 	"textures": {
 		"0": "block/stone",
-		"1": "item/gui/vortex_manipulator/prev",
+		"1": "item/gui/prev",
 		"particle": "block/stone"
 	}
 }
