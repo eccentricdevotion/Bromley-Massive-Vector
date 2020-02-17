@@ -255,6 +255,12 @@
             "tardis_cloister_bell"
         ]
     },
+    "cloister_bell": {
+        "category": "master",
+        "sounds": [
+            "cloister_bell"
+        ]
+    },
     "tardis_scanner": {
         "category": "master",
         "sounds": [
