@@ -355,12 +355,12 @@
 		},
 		"gui": {
 			"rotation": [30, 50, -75],
-			"translation": [3.75, 3.75, 0],
-			"scale": [2, 2, 2]
+			"translation": [1.75, 1.5, 0],
+			"scale": [1.6, 1.6, 1.6]
 		},
 		"fixed": {
-			"translation": [0, 8, 0],
-			"scale": [2, 2, 2]
+			"translation": [0, 2.25, -0.75],
+			"scale": [1.4, 1.4, 1.4]
 		}
 	},
 	"groups": [

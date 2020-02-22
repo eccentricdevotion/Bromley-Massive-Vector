@@ -357,12 +357,12 @@
 		},
 		"gui": {
 			"rotation": [30, 50, -75],
-			"translation": [5.25, 5.25, 0],
-			"scale": [2, 2, 2]
+			"translation": [3, 2.75, 0],
+			"scale": [1.6, 1.6, 1.6]
 		},
 		"fixed": {
-			"translation": [0, 8, 0],
-			"scale": [2, 2, 2]
+			"translation": [0, 3.75, -0.75],
+			"scale": [1.4, 1.4, 1.4]
 		}
 	},
 	"groups": [
