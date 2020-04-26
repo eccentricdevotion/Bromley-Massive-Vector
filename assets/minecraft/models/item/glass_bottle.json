@@ -1,10 +1,75 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/glass_bottle"
-    },
-    "overrides": [
-        {"predicate": {"custom_model_data":10000001}, "model": "item/compounds/aluminium_oxide"},
+    "texture_size": [32, 32],
+	"textures": {
+		"0": "item/honey_bottle_model",
+		"particle": "item/honey_bottle_model"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 10.5, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 8, 12]},
+			"faces": {
+				"north": {"uv": [4, 2.75, 8, 8], "texture": "#0"},
+				"east": {"uv": [0, 0, 4, 5.25], "texture": "#0"},
+				"south": {"uv": [4, 0, 8, 5.25], "texture": "#0"},
+				"west": {"uv": [0, 2.75, 4, 8], "texture": "#0"},
+				"down": {"uv": [2.25, 3.25, 6.25, 7.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.75, 10.5, 3.75],
+			"to": [12.25, 12.5, 12.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11.75, 8, 11.75]},
+			"faces": {
+				"north": {"uv": [3.75, 15, 8, 16], "texture": "#0"},
+				"east": {"uv": [0, 8, 4.25, 9], "texture": "#0"},
+				"south": {"uv": [0, 14.875, 4.25, 15.875], "texture": "#0"},
+				"west": {"uv": [3.75, 8, 8, 9], "texture": "#0"},
+				"up": {"uv": [1.875, 9.25, 6.125, 13.5], "texture": "#0"},
+				"down": {"uv": [0, 11.75, 4.25, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 1.75, 1.5],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 1.75, 1.5],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 17, 0],
+			"translation": [1.75, 3.5, 0],
+			"scale": [0.45, 0.4, 0.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 17, 0],
+			"translation": [1.75, 3.5, 0],
+			"scale": [0.45, 0.4, 0.25]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 13, 7]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+   "overrides": [
+      {"predicate": {"custom_model_data":10000001}, "model": "item/compounds/aluminium_oxide"},
 		{"predicate": {"custom_model_data":10000002}, "model": "item/compounds/ammonia"},
 		{"predicate": {"custom_model_data":10000003}, "model": "item/compounds/jar"},
 		{"predicate": {"custom_model_data":10000004}, "model": "item/compounds/benzene"},
