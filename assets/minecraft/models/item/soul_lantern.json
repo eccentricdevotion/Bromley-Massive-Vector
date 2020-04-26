@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/soul_fire_lantern_model",
-		"particle": "block/soul_fire_lantern_model"
+		"0": "block/soul_lantern_model",
+		"particle": "block/soul_lantern_model"
 	},
 	"elements": [
 		{
