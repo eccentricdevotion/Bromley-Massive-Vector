@@ -2,7 +2,9 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/acacia_log",
+		"1": "block/jungle_log",
 		"2": "block/anvil",
+		"3": "block/grass_block_top",
 		"particle": "block/acacia_log"
 	},
 	"elements": [
@@ -124,29 +126,68 @@
 			}
 		},
 		{
-			"from": [8, 0.1875, 8.78125],
+			"from": [4.5, 0.1875, 8.78125],
 			"to": [16.34375, 0.4375, 9.03125],
-			"rotation": {"angle": 0, "axis": "z", "origin": [8, 0.33807, 7.41133]},
+			"rotation": {"angle": 45, "axis": "y", "origin": [16.17188, 0.3125, 8.90625]},
 			"faces": {
-				"north": {"uv": [0, 0, 8.34375, 0.25], "texture": "#2"},
+				"north": {"uv": [0, 0, 11.84375, 0.25], "texture": "#2"},
 				"east": {"uv": [0, 0, 0.25, 0.25], "texture": "#2"},
-				"south": {"uv": [0, 0, 8.34375, 0.25], "texture": "#2"},
+				"south": {"uv": [0, 0, 11.84375, 0.25], "texture": "#2"},
 				"west": {"uv": [0, 0, 0.25, 0.25], "texture": "#2"},
-				"up": {"uv": [0.625, 7.5, 8.968, 7.749], "texture": "#2"},
-				"down": {"uv": [8.34375, 12.5, 0, 12.75], "texture": "#2"}
+				"up": {"uv": [1.75, 15.125, 13.593, 15.374], "texture": "#2"},
+				"down": {"uv": [13.092, 0.625, 1.249, 0.874], "texture": "#2"}
 			}
 		},
 		{
 			"from": [-0.34375, 0.1875, 8.78125],
-			"to": [8, 0.4375, 9.03125],
-			"rotation": {"angle": 0, "axis": "z", "origin": [8, 0.33807, 7.41133]},
+			"to": [11.475, 0.4375, 9.03125],
+			"rotation": {"angle": -45, "axis": "y", "origin": [-0.17187, 0.3125, 8.90625]},
 			"faces": {
-				"north": {"uv": [8.34375, 0, 0, 0.25], "texture": "#2"},
+				"north": {"uv": [11.81875, 0, 0, 0.25], "texture": "#2"},
 				"east": {"uv": [0.25, 0, 0, 0.25], "texture": "#2"},
-				"south": {"uv": [8.34375, 0, 0, 0.25], "texture": "#2"},
+				"south": {"uv": [11.81875, 0, 0, 0.25], "texture": "#2"},
 				"west": {"uv": [0.25, 0, 0, 0.25], "texture": "#2"},
-				"up": {"uv": [10.717, 7, 2.375, 7.249], "texture": "#2"},
-				"down": {"uv": [8.34375, 7.5, 0, 7.75], "texture": "#2"}
+				"up": {"uv": [11.819, 7, 0, 7.249], "texture": "#2"},
+				"down": {"uv": [12.818, 15.125, 1, 15.374], "texture": "#2"}
+			}
+		},
+		{
+			"from": [7.7, 0.2375, 4.98125],
+			"to": [8.3, 0.3625, 5.58125],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 0.275, 5.28125]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.6, 0.125], "texture": "#3"},
+				"east": {"uv": [0, 0, 0.6, 0.125], "texture": "#3"},
+				"south": {"uv": [0, 0, 0.6, 0.125], "texture": "#3"},
+				"west": {"uv": [0, 0, 0.6, 0.125], "texture": "#3"},
+				"up": {"uv": [0, 0, 0.6, 0.6], "rotation": 90, "texture": "#3"},
+				"down": {"uv": [0, 0, 0.6, 0.6], "rotation": 270, "texture": "#3"}
+			}
+		},
+		{
+			"from": [7.875, 0.1875, 5.15625],
+			"to": [8.125, 0.4375, 16.83125],
+			"rotation": {"angle": 0, "axis": "z", "origin": [16.04688, 0.3125, 5.28125]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.25, 0.25], "texture": "#1"},
+				"east": {"uv": [15.5, 0, 15.75, 11.675], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [0, 0, 0.25, 0.25], "texture": "#1"},
+				"west": {"uv": [0, 0, 0.25, 11.675], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [0, 0, 0.25, 11.675], "texture": "#1"},
+				"down": {"uv": [0, 0, 0.25, 11.675], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.625, 0.2875, 15.55625],
+			"to": [8.375, 0.3625, 16.80625],
+			"rotation": {"angle": 0, "axis": "z", "origin": [16.04688, 0.3125, 8.93125]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.75, 0.075], "texture": "#3"},
+				"east": {"uv": [0, 0, 1.25, 0.075], "texture": "#3"},
+				"south": {"uv": [0, 0, 0.75, 0.075], "texture": "#3"},
+				"west": {"uv": [0, 0, 1.25, 0.075], "texture": "#3"},
+				"up": {"uv": [0, 0, 0.75, 1.25], "texture": "#3"},
+				"down": {"uv": [0, 0, 0.75, 1.25], "texture": "#3"}
 			}
 		}
 	],
@@ -187,19 +228,11 @@
 			"scale": [1.3, 1.3, 1.3]
 		}
 	},
-   "overrides": [
-      {"predicate": {"pulling": 1}, "model": "item/bow_pulling_0"},
-      {"predicate": {"pulling": 1, "pull": 0.65}, "model": "item/bow_pulling_1"},
-      {"predicate": {"pulling": 1, "pull": 0.9}, "model": "item/bow_pulling_2"},
-      {"predicate": {"custom_model_data":1}, "model": "item/monster/dalek_bow"},
-      {"predicate": {"custom_model_data":2}, "model": "item/monster/silurian_bow"},
-      {"predicate": {"custom_model_data":3}, "model": "item/monster/silurian_gun_arm"}
-   ],
 	"groups": [
 		{
 			"name": "group",
 			"origin": [2.90709, 0.75, 3.06201],
-			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
 		}
 	]
 }
