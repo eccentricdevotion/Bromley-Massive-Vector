@@ -16,7 +16,7 @@
 		{"when":{"down":false,"east":false,"north":true,"south":false,"up":true,"west":false},"apply":{"model":"block/tardis/time_rotor_off"}},
 		{"when":{"down":false,"east":false,"north":true,"south":false,"up":true,"west":true},"apply":{"model":"block/tardis/time_rotor_tennant_off"}},
 		{"when":{"down":false,"east":false,"north":true,"south":true,"up":false,"west":false},"apply":{"model":"block/tardis/time_rotor_early_off"}},
-		{"when":{"down":false,"east":false,"north":true,"south":true,"up":false,"west":true},"apply":{"model":"block/mushroom/112"}},
+		{"when":{"down":false,"east":false,"north":true,"south":true,"up":false,"west":true},"apply":{"model":"block/seed/rotor"}},
 		{"when":{"down":false,"east":false,"north":true,"south":true,"up":true,"west":false},"apply":{"model":"block/mushroom/113"}},
 		{"when":{"down":false,"east":false,"north":true,"south":true,"up":true,"west":true},"apply":{"model":"block/mushroom/114"}},
 		{"when":{"down":false,"east":true,"north":false,"south":false,"up":false,"west":false},"apply":{"model":"block/mushroom/115"}},
