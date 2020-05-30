@@ -96,14 +96,6 @@
       {"predicate": {"custom_model_data":25}, "model": "item/gui/clock/three_am"},
       {"predicate": {"custom_model_data":26}, "model": "item/gui/clock/four_am"},
       {"predicate": {"custom_model_data":27}, "model": "item/gui/clock/five_am"},
-      {"predicate": {"custom_model_data":10000001}, "model": "item/tardis/fob_watch"},
-      {"predicate": {"custom_model_data":10000002}, "model": "item/time_rotor/time_rotor_early_off"},
-      {"predicate": {"custom_model_data":10000003}, "model": "item/time_rotor/time_rotor_tennant_off"},
-      {"predicate": {"custom_model_data":10000004}, "model": "item/time_rotor/time_rotor_eleventh_off"},
-      {"predicate": {"custom_model_data":10000005}, "model": "item/time_rotor/time_rotor_twelfth_off"},
-      {"predicate": {"custom_model_data":20000002}, "model": "item/time_rotor/time_rotor_early"},
-      {"predicate": {"custom_model_data":20000003}, "model": "item/time_rotor/time_rotor_tennant"},
-      {"predicate": {"custom_model_data":20000004}, "model": "item/time_rotor/time_rotor_eleventh"},
-      {"predicate": {"custom_model_data":20000005}, "model": "item/time_rotor/time_rotor_twelfth_off"}
+      {"predicate": {"custom_model_data":10000001}, "model": "item/tardis/fob_watch"}
    ]
 }
