@@ -1,0 +1,7 @@
+{
+	"parent": "item/candle_bmv",
+	"textures": {
+		"0": "item/gray_candle_bmv",
+		"particle": "item/gray_candle_bmv"
+	}
+}
