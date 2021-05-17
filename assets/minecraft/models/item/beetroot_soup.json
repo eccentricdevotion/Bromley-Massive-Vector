@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/beetroot",
-		"1": "item/bowl_side",
-		"particle": "item/beetroot"
+		"0": "minecraft:item/beetroot",
+		"1": "minecraft:item/bowl_side",
+		"particle": "minecraft:item/beetroot"
 	},
 	"elements": [
 		{

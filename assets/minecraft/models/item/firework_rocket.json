@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/firework_rocket"
   },
   "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "item/gui/excite"}
+    {"predicate": {"custom_model_data":1}, "model": "tardis:item/gui/excite"}
   ]
 }

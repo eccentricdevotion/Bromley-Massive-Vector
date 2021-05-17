@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/minecart/chest_minecart",
-		"particle": "item/minecart/chest_minecart"
+		"0": "minecraft:item/minecart/chest_minecart",
+		"particle": "minecraft:item/minecart/chest_minecart"
 	},
 	"elements": [
 		{

@@ -1,9 +1,9 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/music_disc_cat"
+        "layer0": "minecraft:item/music_disc_cat"
     },
     "overrides": [
-      {"predicate": {"custom_model_data":10000001}, "model": "item/disks/biome_disk"}
+      {"predicate": {"custom_model_data":10000001}, "model": "tardis:item/disks/biome_disk"}
     ]
 }

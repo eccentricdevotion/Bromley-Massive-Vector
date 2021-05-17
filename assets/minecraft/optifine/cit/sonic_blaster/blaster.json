@@ -1,7 +1,7 @@
 {
-    "parent": "item/handheld",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/sonic/blaster"
+        "layer0": "tardis:item/sonic/blaster"
     },
     "display": {
         "thirdperson_righthand": {

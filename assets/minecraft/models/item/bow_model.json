@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/acacia_log",
-		"2": "block/anvil",
-		"particle": "block/acacia_log"
+		"0": "minecraft:block/acacia_log",
+		"2": "minecraft:block/anvil",
+		"particle": "minecraft:block/acacia_log"
 	},
 	"elements": [
 		{

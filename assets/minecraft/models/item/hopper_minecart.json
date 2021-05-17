@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/minecart/chest_minecart",
-		"1": "block/hopper_outside",
-		"3": "block/hopper_inside",
-		"particle": "item/minecart/chest_minecart"
+		"0": "minecraft:item/minecart/chest_minecart",
+		"1": "minecraft:block/hopper_outside",
+		"3": "minecraft:block/hopper_inside",
+		"particle": "minecraft:item/minecart/chest_minecart"
 	},
 	"elements": [
 		{

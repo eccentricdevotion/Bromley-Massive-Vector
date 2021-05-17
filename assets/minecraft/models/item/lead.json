@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/lead"
+        "layer0": "minecraft:item/lead"
     },
     "display": {
         "head": {
@@ -11,7 +11,7 @@
         }
     },
     "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/genetic/button_opts"}
+        {"predicate": {"custom_model_data":1}, "model": "tardis:item/genetic/button_opts"}
 	]
 }
 }

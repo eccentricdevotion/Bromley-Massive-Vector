@@ -1,6 +1,6 @@
 {
-    "parent": "block/grass_block",
+    "parent": "minecraft:block/grass_block",
     "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/gui/room/zero"}
+		{"predicate": {"custom_model_data":1}, "model": "tardis:item/gui/room/zero"}
 	]
 }

@@ -1,7 +1,7 @@
 {
     "textures": {
-        "0": "item/chemistry/powder",
-        "1": "item/bucket_side"
+        "0": "tardis:item/chemistry/powder",
+        "1": "minecraft:item/bucket_side"
     },
     "elements": [
         {
@@ -117,9 +117,9 @@
         }
     },
     "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/products/antidote"},
-        {"predicate": {"custom_model_data":2}, "model": "item/products/elixir"},
-        {"predicate": {"custom_model_data":3}, "model": "item/products/eyedrops"},
-        {"predicate": {"custom_model_data":4}, "model": "item/products/tonic"}
+        {"predicate": {"custom_model_data":1}, "model": "tardis:item/products/antidote"},
+        {"predicate": {"custom_model_data":2}, "model": "tardis:item/products/elixir"},
+        {"predicate": {"custom_model_data":3}, "model": "tardis:item/products/eyedrops"},
+        {"predicate": {"custom_model_data":4}, "model": "tardis:item/products/tonic"}
     ]
 }

@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [8, 8],
 	"textures": {
-		"0": "block/acacia_log",
-		"1": "block/jungle_log",
-		"2": "block/anvil",
-		"3": "block/grass_block_top",
-		"particle": "block/acacia_log"
+		"0": "minecraft:block/acacia_log",
+		"1": "minecraft:block/jungle_log",
+		"2": "minecraft:block/anvil",
+		"3": "minecraft:block/grass_block_top",
+		"particle": "minecraft:block/acacia_log"
 	},
 	"elements": [
 		{
@@ -309,34 +309,34 @@
          "predicate": {
             "pulling": 1
          },
-         "model": "item/crossbow_pulling_0"
+         "model": "minecraft:item/crossbow_pulling_0"
       },
       {
          "predicate": {
             "pulling": 1,
             "pull": 0.58
          },
-         "model": "item/crossbow_pulling_1"
+         "model": "minecraft:item/crossbow_pulling_1"
       },
       {
          "predicate": {
             "pulling": 1,
             "pull": 1.0
          },
-         "model": "item/crossbow_pulling_2"
+         "model": "minecraft:item/crossbow_pulling_2"
       },
       {
          "predicate": {
             "charged": 1
          },
-         "model": "item/crossbow_arrow"
+         "model": "minecraft:item/crossbow_arrow"
       },
       {
       "predicate": {
          "charged": 1,
             "firework": 1
          },
-         "model": "item/crossbow_firework"
+         "model": "minecraft:item/crossbow_firework"
       }
    ],
 	"groups": [0, 1, 2, 3, 4,

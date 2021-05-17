@@ -1,7 +1,7 @@
 {
-    "parent": "builtin/entity",
+    "parent": "minecraft:builtin/entity",
     "textures": {
-        "particle": "block/oak_planks"
+        "particle": "minecraft:block/oak_planks"
     },
     "display": {
         "gui": {
@@ -36,6 +36,6 @@
         }
     },
     "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/gui/room/smelter"}
+		{"predicate": {"custom_model_data":1}, "model": "tardis:item/gui/room/smelter"}
 	]
 }

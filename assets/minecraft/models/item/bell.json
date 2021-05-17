@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/bell_bottom",
-		"1": "block/bell_side",
-		"2": "block/bell_top",
-		"particle": "block/bell_bottom"
+		"0": "minecraft:block/bell_bottom",
+		"1": "minecraft:block/bell_side",
+		"2": "minecraft:block/bell_top",
+		"particle": "minecraft:block/bell_bottom"
 	},
 	"elements": [
 		{

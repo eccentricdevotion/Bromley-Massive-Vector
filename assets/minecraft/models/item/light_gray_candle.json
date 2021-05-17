@@ -1,7 +1,7 @@
 {
 	"parent": "item/candle_bmv",
 	"textures": {
-		"0": "item/light_gray_candle_bmv",
-		"particle": "item/light_gray_candle_bmv"
+		"0": "minecraft:item/light_gray_candle_bmv",
+		"particle": "minecraft:item/light_gray_candle_bmv"
 	}
 }

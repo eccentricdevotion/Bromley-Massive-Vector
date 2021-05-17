@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/lantern_model",
-		"particle": "block/lantern_model"
+		"0": "minecraft:block/lantern_model",
+		"particle": "minecraft:block/lantern_model"
 	},
 	"elements": [
 		{

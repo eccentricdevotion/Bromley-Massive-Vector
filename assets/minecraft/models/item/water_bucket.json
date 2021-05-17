@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/water_still",
-		"1": "item/bucket_side"
+		"0": "minecraft:block/water_still",
+		"1": "minecraft:item/bucket_side"
 	},
 	"elements": [
 		{
@@ -123,7 +123,7 @@
 		}
 	},
     "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/planets/acid_bucket"},
-		{"predicate": {"custom_model_data":2}, "model": "item/gui/rain"}
+		{"predicate": {"custom_model_data":1}, "model": "tardis:item/planets/acid_bucket"},
+		{"predicate": {"custom_model_data":2}, "model": "tardis:item/gui/rain"}
 	]
 }

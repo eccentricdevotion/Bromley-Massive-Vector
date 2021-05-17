@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/snow",
-		"1": "item/bucket_side"
+		"0": "minecraft:block/snow",
+		"1": "minecraft:item/bucket_side"
 	},
 	"elements": [
 		{
@@ -90,25 +90,25 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "item/products/antidote"
+			"model": "tardis:item/products/antidote"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "item/products/elixir"
+			"model": "tardis:item/products/elixir"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "item/products/eyedrops"
+			"model": "tardis:item/products/eyedrops"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4
 			},
-			"model": "item/products/tonic"
+			"model": "tardis:item/products/tonic"
 		}
 	],
 	"display": {

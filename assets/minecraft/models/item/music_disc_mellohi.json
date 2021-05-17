@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/music_disc_mellohi"
   },
   "overrides": [
-    {"predicate": {"custom_model_data":10000001}, "model": "item/disks/blueprint_disk"}
+    {"predicate": {"custom_model_data":10000001}, "model": "tardis:item/disks/blueprint_disk"}
   ]
 }

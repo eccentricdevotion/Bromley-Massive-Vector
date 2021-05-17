@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/campfire_log",
-		"1": "block/soul_campfire_fire_model",
-		"particle": "block/campfire_log"
+		"0": "minecraft:block/campfire_log",
+		"1": "minecraft:block/soul_campfire_fire_model",
+		"particle": "minecraft:block/campfire_log"
 	},
 	"elements": [
 		{
