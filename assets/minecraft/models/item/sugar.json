@@ -7,6 +7,8 @@
         {"predicate": {"custom_model_data":1}, "model": "tardis:item/genetic/empty_child"},
         {"predicate": {"custom_model_data":2}, "model": "tardis:item/monster/empty_child_arm"},
         {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/empty_child_head"},
-        {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/empty_child_disguise"}
+        {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/empty_child_disguise"},
+        {"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/empty_child_static"},
+        {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/empty_child_walking"}
 	]
 }

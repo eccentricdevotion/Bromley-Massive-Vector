@@ -7,6 +7,8 @@
         {"predicate": {"custom_model_data":1}, "model": "tardis:item/genetic/strax"},
         {"predicate": {"custom_model_data":2}, "model": "tardis:item/monster/strax_arm"},
         {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/strax_head"},
-        {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/strax_disguise"}
+        {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/strax_disguise"},
+        {"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/strax_static"},
+        {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/strax_walking"}
 	]
 }
