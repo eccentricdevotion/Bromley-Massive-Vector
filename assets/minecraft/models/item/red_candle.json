@@ -3,5 +3,13 @@
 	"textures": {
 		"0": "minecraft:item/red_candle_bmv",
 		"particle": "minecraft:item/red_candle_bmv"
-	}
+	},
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "tardis:item/genetic/headless_monk"},
+        {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/headless_monk/headless_monk_head"},
+        {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/headless_monk/strax_disguise"},
+        {"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/headless_monk/headless_monk_static"},
+        {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/headless_monk/headless_monk_walking"},
+        {"predicate": {"custom_model_data":11}, "model": "tardis:item/monster/headless_monk/headless_monk_attacking"}
+	]
 }
