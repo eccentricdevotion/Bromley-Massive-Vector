@@ -7,6 +7,7 @@
         {"predicate": {"custom_model_data":1}, "model": "tardis:item/genetic/slitheen"},
         {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/slitheen/slitheen_head"},
         {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/slitheen/slitheen_disguise"},
+        {"predicate": {"custom_model_data":5}, "model": "tardis:item/monster/slitheen/slitheen_suit"},
         {"predicate": {"custom_model_data":9}, "model": "tardis:item/monster/slitheen/slitheen_static"},
         {"predicate": {"custom_model_data":10}, "model": "tardis:item/monster/slitheen/slitheen_walking"},
         {"predicate": {"custom_model_data":11}, "model": "tardis:item/monster/slitheen/slitheen_attacking"}
