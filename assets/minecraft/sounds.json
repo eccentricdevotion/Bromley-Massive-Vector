@@ -601,6 +601,19 @@
       ],
       "subtitle":"Laser fires"
    },
+   "racnoss":{
+      "category":"hostile",
+      "sounds":[
+         "tardis:racnoss_couple",
+         "tardis:racnoss_empress",
+         "tardis:racnoss_hiss",
+         "tardis:racnoss_laugh",
+         "tardis:racnoss_particles",
+         "tardis:racnoss_scourged",
+         "tardis:racnoss_suffer"
+      ],
+      "subtitle":"Racnoss taunts"
+   },
    "toclafane":{
       "category":"hostile",
       "sounds":[
