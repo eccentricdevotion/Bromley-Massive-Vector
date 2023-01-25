@@ -12,6 +12,8 @@
       {"predicate": {"custom_model_data":10000003}, "model": "tardis:item/time_rotor/time_rotor_tennant"},
       {"predicate": {"custom_model_data":10000004}, "model": "tardis:item/time_rotor/time_rotor_eleventh"},
       {"predicate": {"custom_model_data":10000005}, "model": "tardis:item/time_rotor/time_rotor_twelfth"},
-      {"predicate": {"custom_model_data":10000006}, "model": "tardis:item/time_rotor/time_rotor_delta"}
+      {"predicate": {"custom_model_data":10000006}, "model": "tardis:item/time_rotor/time_rotor_delta"},
+      {"predicate": {"custom_model_data":10000007}, "model": "tardis:item/time_rotor/engine"},
+      {"predicate": {"custom_model_data":10000008}, "model": "tardis:item/time_rotor/engine_rotor"}
    ]
 }

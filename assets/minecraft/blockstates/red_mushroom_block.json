@@ -29,7 +29,7 @@
 		{"when":{"down":false,"east":true,"north":false,"south":false,"up":true,"west":true},"apply":{"model":"tardis:block/mushroom/unused"}},
 		{"when":{"down":false,"east":true,"north":false,"south":true,"up":false,"west":true},"apply":{"model":"tardis:block/mushroom/unused"}},
 		{"when":{"down":false,"east":true,"north":false,"south":true,"up":true,"west":true},"apply":{"model":"tardis:block/mushroom/unused"}},
-		{"when":{"down":false,"east":true,"north":true,"south":false,"up":false,"west":true},"apply":{"model":"tardis:block/mushroom/unused"}},
+		{"when":{"down":false,"east":true,"north":true,"south":false,"up":false,"west":true},"apply":{"model":"tardis:block/seed/mechanical"}},
 		{"when":{"down":false,"east":true,"north":true,"south":false,"up":true,"west":true},"apply":{"model":"tardis:block/seed/fugitive"}},
 		{"when":{"down":false,"east":true,"north":true,"south":true,"up":false,"west":false},"apply":{"model":"tardis:block/seed/ancient"}},
 		{"when":{"down":false,"east":true,"north":true,"south":true,"up":false,"west":true},"apply":{"model":"tardis:block/seed/division"}},
