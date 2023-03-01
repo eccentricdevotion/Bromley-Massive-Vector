@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "tardis:block/seed/playgound_bottom",
+    "side": "tardis:block/seed/playgound_side",
+    "top": "tardis:block/seed/playgound_top"
+  }
+}
