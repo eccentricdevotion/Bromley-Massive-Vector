@@ -45,7 +45,7 @@
 		{"predicate": {"custom_model_data":10041}, "model": "tardis:block/tardis/disk_storage"},
 		{"predicate": {"custom_model_data":10042}, "model": "tardis:block/tardis/hexagon"},
 		{"predicate": {"custom_model_data":10043}, "model": "tardis:block/tardis/roundel"},
-		{"predicate": {"custom_model_data":10044}, "model": "tardis:block/tardis/roundell_offset"},
+		{"predicate": {"custom_model_data":10044}, "model": "tardis:block/tardis/roundel_offset"},
 		{"predicate": {"custom_model_data":10045}, "model": "tardis:block/chemistry/blue_lamp"},
 		{"predicate": {"custom_model_data":10046}, "model": "tardis:block/chemistry/green_lamp"},
 		{"predicate": {"custom_model_data":10047}, "model": "tardis:block/chemistry/purple_lamp"},
