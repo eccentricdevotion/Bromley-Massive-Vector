@@ -28,8 +28,6 @@ Here's a quick run down on doing that:
    * Bromley Massive Vector (You are here)
    * [TARDIS-Resource-Pack](https://github.com/eccentricdevotion/TARDIS-Resource-Pack)
    * [TARDIS-Sounds](https://github.com/eccentricdevotion/TARDIS-SoundResourcePack)
-   * [Skaro](https://github.com/eccentricdevotion/Skaro)
-   * [Gallifrey](https://github.com/eccentricdevotion/Gallifrey)
    * [TARDISWeepingAngels](https://github.com/eccentricdevotion/TARDISWeepingAngels-Resource-Pack) - you only need this if you _don't_ have the TARDIS-Resource-Pack...
 4. Click the green __Clone or download__ button, then the __Open in Desktop__ link
 5. Save the repository clone in the minecraft/resourcepacks folder
