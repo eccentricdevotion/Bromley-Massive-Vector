@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/sea_lantern",
+	"overrides": [
+		{"predicate": {"custom_model_data":10005}, "model": "tardis:block/lights/classic_on"},
+		{"predicate": {"custom_model_data":10008}, "model": "tardis:block/lights/eleventh_2_on"},
+		{"predicate": {"custom_model_data":10009}, "model": "tardis:block/lights/twelth_on"},
+		{"predicate": {"custom_model_data":10010}, "model": "tardis:block/lights/thirteenth_on"}
+	]
+}
