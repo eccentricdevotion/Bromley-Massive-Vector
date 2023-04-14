@@ -2,7 +2,7 @@
   "parent": "minecraft:block/redstone_lamp",
 	"overrides": [
 		{"predicate": {"custom_model_data":10006}, "model": "tardis:block/lights/tenth_on"},
-		{"predicate": {"custom_model_data":10007}, "model": "tardis:block/lights/eleventh_1_on"},
+		{"predicate": {"custom_model_data":10007}, "model": "tardis:block/lights/eleventh_on"},
 		{"predicate": {"custom_model_data":10011}, "model": "tardis:block/lights/lamp_on"}
 	]
 }
