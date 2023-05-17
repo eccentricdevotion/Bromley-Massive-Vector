@@ -214,14 +214,12 @@
 			"name": "cross",
 			"origin": [15.5, 2, 15.5],
 			"color": 0,
-			"nbt": "{}",
 			"children": [1, 2, 3, 4, 5]
 		},
 		{
 			"name": "columns",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"nbt": "{}",
 			"children": [
 				6,
 				7,
@@ -231,28 +229,24 @@
 					"name": "blob0",
 					"origin": [0, 0, 0],
 					"color": 0,
-					"nbt": "{}",
 					"children": [10]
 				},
 				{
 					"name": "blob1",
 					"origin": [0, 0, 0],
 					"color": 0,
-					"nbt": "{}",
 					"children": [11]
 				},
 				{
 					"name": "blob2",
 					"origin": [0, 0, 0],
 					"color": 0,
-					"nbt": "{}",
 					"children": [12]
 				},
 				{
 					"name": "blob3",
 					"origin": [0, 0, 0],
 					"color": 0,
-					"nbt": "{}",
 					"children": [13]
 				}
 			]
