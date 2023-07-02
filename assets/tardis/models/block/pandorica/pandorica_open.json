@@ -289,7 +289,7 @@
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
-			"translation": [24, 24, -23],
+			"translation": [21, 21, -23],
 			"scale": [3, 3, 3]
 		}
 	},
@@ -297,14 +297,30 @@
 		{
 			"name": "pandorica",
 			"origin": [-8, 0, -8],
-			"children": [0, 1, 2, 3, 4, 5,
+			"color": 0,
+			"children": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
 				{
 					"name": "interior",
 					"origin": [-8, 0, -8],
-					"children": [6, 7, 8, 9, 10, 11, 12,
+					"color": 0,
+					"children": [
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
 						{
 							"name": "chair",
 							"origin": [-8, 0, -8],
+							"color": 0,
 							"children": [13, 14, 15, 16, 17, 18, 19, 20, 21]
 						}
 					]
