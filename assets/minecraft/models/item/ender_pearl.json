@@ -1,8 +1,8 @@
 {
-    "parent": "item/chest",
-    "textures": {
-        "particle": "block/obsidian"
-    },
+  "parent": "minecraft:item/generated",
+   "textures": {
+      "layer0": "minecraft:item/ender_pearl"
+   },
    "overrides": [
       {"predicate": {"custom_model_data":1001}, "model": "tardis:block/pandorica/pandorica"},
       {"predicate": {"custom_model_data":1002}, "model": "tardis:block/pandorica/pandorica_open"},
