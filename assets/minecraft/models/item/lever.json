@@ -4,6 +4,15 @@
         "layer0": "minecraft:block/lever"
     },
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "tardis:item/gui/handbrake"}
+		{"predicate": {"custom_model_data":1}, "model": "tardis:item/gui/handbrake"},
+		{"predicate": {"custom_model_data":1001}, "model": "tardis:block/controls/handbrake_0"},
+		{"predicate": {"custom_model_data":1002}, "model": "tardis:block/controls/handbrake_r_f"},
+		{"predicate": {"custom_model_data":1003}, "model": "tardis:block/controls/handbrake_r_b"},
+		{"predicate": {"custom_model_data":1004}, "model": "tardis:block/controls/handbrake_l_f"},
+		{"predicate": {"custom_model_data":1005}, "model": "tardis:block/controls/handbrake_l_f"},
+		{"predicate": {"custom_model_data":1006}, "model": "tardis:block/controls/handbrake_b_f"},
+		{"predicate": {"custom_model_data":1007}, "model": "tardis:block/controls/handbrake_b_b"},
+		{"predicate": {"custom_model_data":1008}, "model": "tardis:block/controls/handbrake_lf_rb"},
+		{"predicate": {"custom_model_data":1009}, "model": "tardis:block/controls/handbrake_lb_rf"}
 	]
 }
