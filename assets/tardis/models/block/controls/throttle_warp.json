@@ -1,5 +1,5 @@
 {
-	"parent": "tardis:block/control/throttle",
+	"parent": "tardis:block/controls/throttle",
 	"elements": [
 		{
 			"name": "base",
