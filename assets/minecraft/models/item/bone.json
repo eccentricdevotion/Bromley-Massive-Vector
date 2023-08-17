@@ -17,6 +17,11 @@
         {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/k9/k9_ears_3"},
         {"predicate": {"custom_model_data":5}, "model": "tardis:item/monster/k9/k9_ears_4"},
         {"predicate": {"custom_model_data":6}, "model": "tardis:item/genetic/k9"},
+        {"predicate": {"custom_model_data":400}, "model": "tardis:item/monster/k9/frames/k9_0"},
+        {"predicate": {"custom_model_data":401}, "model": "tardis:item/monster/k9/frames/k9_1"},
+        {"predicate": {"custom_model_data":402}, "model": "tardis:item/monster/k9/frames/k9_2"},
+        {"predicate": {"custom_model_data":403}, "model": "tardis:item/monster/k9/frames/k9_3"},
+        {"predicate": {"custom_model_data":404}, "model": "tardis:item/monster/k9/frames/k9_4"},
         {"predicate": {"custom_model_data":10000001}, "model": "tardis:item/tardis/wand"}
 	]
 }
