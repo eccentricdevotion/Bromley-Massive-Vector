@@ -12,10 +12,6 @@
     },
     "overrides": [
         {"predicate": {"custom_model_data":1}, "model": "tardis:item/monster/k9/k9"},
-        {"predicate": {"custom_model_data":2}, "model": "tardis:item/monster/k9/k9_ears_1"},
-        {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/k9/k9_ears_2"},
-        {"predicate": {"custom_model_data":4}, "model": "tardis:item/monster/k9/k9_ears_3"},
-        {"predicate": {"custom_model_data":5}, "model": "tardis:item/monster/k9/k9_ears_4"},
         {"predicate": {"custom_model_data":6}, "model": "tardis:item/genetic/k9"},
         {"predicate": {"custom_model_data":400}, "model": "tardis:item/monster/k9/frames/k9_0"},
         {"predicate": {"custom_model_data":401}, "model": "tardis:item/monster/k9/frames/k9_1"},
