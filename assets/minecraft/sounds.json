@@ -327,6 +327,13 @@
       ],
       "subtitle":"Door opens"
    },
+   "star_trek_door": {
+	   "category":"master",
+      "sounds":[
+         "tardis:star_trek_door"
+      ],
+      "subtitle":"Door swooshes"
+   },
    "tardis_handbrake_engage":{
       "category":"master",
       "sounds":[
