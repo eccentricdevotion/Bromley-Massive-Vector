@@ -49,6 +49,6 @@
 		{"predicate": {"custom_model_data":8004}, "model": "tardis:block/controls/light_4"},
 		{"predicate": {"custom_model_data":8005}, "model": "tardis:block/controls/light_5"},
 		{"predicate": {"custom_model_data":8006}, "model": "tardis:block/controls/light_6"},
-		{"predicate": {"custom_model_data":8008}, "model": "tardis:block/controls/light_7"}
+		{"predicate": {"custom_model_data":8007}, "model": "tardis:block/controls/light_7"}
 	]
 }
