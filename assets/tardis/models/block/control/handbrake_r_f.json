@@ -1,5 +1,5 @@
 {
-	"parent": "tardis:block/controls/handbrake",
+	"parent": "tardis:block/control/handbrake",
 	"elements": [
 		{
 			"name": "base",
