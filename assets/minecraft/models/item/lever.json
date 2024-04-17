@@ -29,7 +29,7 @@
 		{"predicate": {"custom_model_data":5006}, "model": "tardis:block/control/handbrake_b_f"},
 		{"predicate": {"custom_model_data":5007}, "model": "tardis:block/control/handbrake_b_b"},
 		{"predicate": {"custom_model_data":5008}, "model": "tardis:block/control/handbrake_lf_rb"},
-		{"predicate": {"custom_model_data":5009}, "model": "tardis:block/control/handbrake_lb_rf"}
+		{"predicate": {"custom_model_data":5009}, "model": "tardis:block/control/handbrake_lb_rf"},
 		{"predicate": {"custom_model_data":6001}, "model": "tardis:block/controls/relativity_differentiator_0a"},
 		{"predicate": {"custom_model_data":6002}, "model": "tardis:block/controls/relativity_differentiator_1a"},
 		{"predicate": {"custom_model_data":6003}, "model": "tardis:block/controls/relativity_differentiator_2a"},
