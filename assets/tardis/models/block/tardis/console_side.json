@@ -1,10 +1,4 @@
 {
-	"credit": "Made with Blockbench",
-	"textures": {
-		"0": "block/light_gray_concrete",
-		"1": "block/red_wool",
-		"particle": "block/light_gray_concrete"
-	},
 	"elements": [
 		{
 			"from": [3.5, 0, 13],
@@ -174,18 +168,6 @@
 				"up": {"uv": [3.875, 14, 11.675, 15], "texture": "#0"},
 				"down": {"uv": [0, 0, 7.8, 1], "texture": "#0"}
 			}
-		},
-		{
-			"name": "control",
-			"from": [5, 0.25, 2],
-			"to": [11, 1.25, 10],
-			"faces": {
-				"north": {"uv": [0, 0, 6, 1], "texture": "#1"},
-				"east": {"uv": [0, 0, 8, 1], "texture": "#1"},
-				"south": {"uv": [0, 0, 6, 1], "texture": "#1"},
-				"west": {"uv": [0, 0, 8, 1], "texture": "#1"},
-				"up": {"uv": [0, 0, 6, 8], "texture": "#1"}
-			}
 		}
 	],
 	"display": {
@@ -202,7 +184,6 @@
 			"color": 0,
 			"nbt": "{}",
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
-		},
-		14
+		}
 	]
 }
