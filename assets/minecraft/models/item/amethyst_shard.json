@@ -29,7 +29,7 @@
     {"predicate": {"custom_model_data": 2007}, "model": "tardis:block/tardis/console_division_yellow"},
     {"predicate": {"custom_model_data": 2008}, "model": "tardis:block/tardis/console_division_lime"},
     {"predicate": {"custom_model_data": 2009}, "model": "tardis:block/tardis/console_division_green"},
-    {"predicate": {"custom_model_data": 2020}, "model": "tardis:block/tardis/console_division_cyan"},
+    {"predicate": {"custom_model_data": 2010}, "model": "tardis:block/tardis/console_division_cyan"},
     {"predicate": {"custom_model_data": 2011}, "model": "tardis:block/tardis/console_division_light_blue"},
     {"predicate": {"custom_model_data": 2012}, "model": "tardis:block/tardis/console_division_blue"},
     {"predicate": {"custom_model_data": 2013}, "model": "tardis:block/tardis/console_division_purple"},

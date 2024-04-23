@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/bamboo_button_0_inventory",
+  "parent": "minecraft:block/bamboo_button_inventory",
   "overrides": [
     {"predicate": {"custom_model_data":1001}, "model": "tardis:block/controls/random_button_0"},
     {"predicate": {"custom_model_data":1002}, "model": "tardis:block/controls/saves_button_0"},
