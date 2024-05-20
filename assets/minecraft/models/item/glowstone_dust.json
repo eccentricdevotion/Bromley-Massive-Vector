@@ -1,9 +1,10 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "minecraft:item/glowstone_dust"
+      "layer0": "minecraft:item/glowstone_dust"
     },
     "overrides": [
+      {"predicate": {"custom_model_data":10001962}, "model": "tardis:item/circuit/telepathic"},
       {"predicate": {"custom_model_data":10001963}, "model": "tardis:item/circuit/stattenheim"},
       {"predicate": {"custom_model_data":10001964}, "model": "tardis:item/circuit/materialisation"},
       {"predicate": {"custom_model_data":10001965}, "model": "tardis:item/circuit/locator"},
@@ -30,6 +31,7 @@
       {"predicate": {"custom_model_data":10001986}, "model": "tardis:item/circuit/knockback"},
       {"predicate": {"custom_model_data":10001987}, "model": "tardis:item/circuit/brush"},
       {"predicate": {"custom_model_data":10001988}, "model": "tardis:item/circuit/conversion"},
+      {"predicate": {"custom_model_data":20001962}, "model": "tardis:item/circuit/telepathic_damaged"},
       {"predicate": {"custom_model_data":20001964}, "model": "tardis:item/circuit/materialisation_damaged"},
       {"predicate": {"custom_model_data":20001966}, "model": "tardis:item/circuit/chameleon_damaged"},
       {"predicate": {"custom_model_data":20001973}, "model": "tardis:item/circuit/ars_damaged"},
