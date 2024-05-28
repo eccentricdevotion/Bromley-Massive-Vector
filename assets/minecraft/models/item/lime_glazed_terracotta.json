@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/lime_glazed_terracotta",
+	"parent": "minecraft:block/lime_glazed_terracotta",
 	"overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "tardis:block/seed/legacy_deluxe"},
 		{"predicate": {"custom_model_data":1001}, "model": "tardis:item/circuit/sys_locked_down"},
