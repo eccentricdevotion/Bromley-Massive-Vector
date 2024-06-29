@@ -4,6 +4,7 @@
     "all": "minecraft:block/magma"
   },
   "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "tardis:item/gui/room/lava"}
+    {"predicate": {"custom_model_data":1}, "model": "tardis:item/gui/room/lava"},
+    {"predicate": {"custom_model_data":1000}, "model": "tardis:block/sphere"}
   ]
 }
