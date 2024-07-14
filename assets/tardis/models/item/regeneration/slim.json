@@ -317,7 +317,7 @@
 	],
 	"display": {
 		"head": {
-			"translation": [0, -15, 0],
+			"translation": [0, 3, 0],
 			"scale": [1.75, 1.75, 1.75]
 		}
 	},
