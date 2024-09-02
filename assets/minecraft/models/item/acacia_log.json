@@ -1,6 +1,6 @@
 {
-    "parent": "minecraft:block/acacia_log",
-    "overrides": [
+  "parent": "minecraft:block/acacia_log",
+  "overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "tardis:item/gui/room/hutch"}
 	]
 }
