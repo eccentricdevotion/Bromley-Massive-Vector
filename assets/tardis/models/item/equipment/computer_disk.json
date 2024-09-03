@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/green_terracotta",
+		"0": "tardis:item/disk/computer_green",
 		"1": "tardis:item/disk/computer_white_label",
 		"2": "tardis:item/disk/silver_metal",
 		"4": "tardis:item/disk/computer_label",
-		"particle": "block/green_terracotta"
+		"particle": "tardis:item/disk/computer_green"
 	},
 	"elements": [
 		{
