@@ -1,0 +1,20 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "tardis:angel"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "tardis:angel"
+      }
+    ],
+    "wings": [
+      {
+        "texture": "tardis:angel",
+        "use_player_texture": true
+      }
+    ]
+  }
+}
