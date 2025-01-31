@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "minecraft:block/ice",
-		"particle": "minecraft:block/ice"
+		"0": "tardis:block/ice",
+		"particle": "tardis:block/ice"
 	},
 	"elements": [
 		{

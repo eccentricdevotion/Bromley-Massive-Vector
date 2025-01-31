@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "minecraft:item/salmon",
-		"1": "minecraft:item/bucket_side",
-		"2": "minecraft:block/water_still",
-		"particle": "minecraft:block/water_still"
+		"0": "item/salmon",
+		"1": "item/bucket_side",
+		"2": "block/water_still",
+		"particle": "item/bucket_side"
 	},
 	"elements": [
 		{

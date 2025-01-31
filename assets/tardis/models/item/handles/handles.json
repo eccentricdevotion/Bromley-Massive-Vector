@@ -1,7 +1,6 @@
 {
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
-	"gui_light": "front",
 	"elements": [
 		{
 			"name": "wire short",

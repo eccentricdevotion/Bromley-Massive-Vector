@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"gui_light": "front",
 	"elements": [
 		{
 			"from": [0, 0, 7],
@@ -15,7 +16,6 @@
 			}
 		}
 	],
-	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [75, 130, 0],

@@ -1,7 +1,0 @@
-{
-	"parent": "item/candle_bmv",
-	"textures": {
-		"0": "minecraft:item/green_candle_bmv",
-		"particle": "minecraft:item/green_candle_bmv"
-	}
-}

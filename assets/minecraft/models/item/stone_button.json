@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:block/stone_button_inventory",
-    "overrides": [
-        {"predicate": {"custom_model_data":10000001}, "model": "tardis:item/monster/weeping_angel/weeping_angel_head"}
-    ]
-}

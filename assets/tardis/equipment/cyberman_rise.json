@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "tardis:cyberman_rise"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "tardis:cyberman_rise"
+      }
+    ]
+  }
+}

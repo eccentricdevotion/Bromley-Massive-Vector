@@ -1,6 +1,6 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "tardis:item/tardis/fob_watch"
-    }
+	"parent": "minecraft:builtin/generated",
+	"textures": {
+		"layer0": "tardis:item/tardis/fob_watch"
+	}
 }

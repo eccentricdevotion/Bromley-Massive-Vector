@@ -1,8 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "minecraft:block/lava_still",
-		"1": "minecraft:item/bucket_side"
+		"0": "block/lava_still",
+		"1": "item/bucket_side",
+		"particle": "item/bucket_side"
 	},
 	"elements": [
 		{
@@ -121,8 +122,5 @@
 		"fixed": {
 			"rotation": [0, 180, 0]
 		}
-	},
-    "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "tardis:item/planets/rust_bucket"}
-	]
+	}
 }

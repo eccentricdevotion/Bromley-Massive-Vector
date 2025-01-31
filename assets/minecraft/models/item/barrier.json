@@ -20,9 +20,6 @@
 			}
 		}
 	],
-	"overrides": [
-		{"predicate": {"custom_model_data": 10000001}, "model": "tardis:item/monster/weeping_angel/weeping_angel_wing"}
-	],
 	"display": {
 		"thirdperson_righthand": {
 			"translation": [0, 1.75, 0],

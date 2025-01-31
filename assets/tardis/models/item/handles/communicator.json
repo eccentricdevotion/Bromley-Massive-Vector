@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "tardis:block/handles/handles_left"
+		"0": "tardis:block/handles/handles_left",
+		"particle": "tardis:block/handles/handles_left"
 	},
 	"elements": [
 		{
@@ -70,8 +71,7 @@
 			"scale": [0.68, 0.68, 0.68]
 		},
 		"ground": {
-			"translation": [0, 3, 0],
-			"scale": [0.5, 0.5, 0.5]
+			"translation": [0, 4, 0]
 		},
 		"gui": {
 			"rotation": [-102, -114, -114],
@@ -93,6 +93,7 @@
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [0, 1, 2]
 		}
 	]
