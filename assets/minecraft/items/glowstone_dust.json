@@ -1,0 +1,508 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "component",
+        "component": "minecraft:custom_model_data",
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/glowstone_dust"
+        },
+        "cases": [
+            {
+                "when": {
+                    "floats": [
+                        101
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/bio"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        102
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/brush"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        103
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/conversion"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        104
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/diamond"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        105
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/emerald"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        106
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/ignite"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        107
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/knockback"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        108
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/painter"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        109
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/perception"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        209
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/perception_damaged"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        110
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/pickup"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        111
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/redstone"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        112
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/rift"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        212
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/rift_damaged"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        113
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/admin"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        114
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/sonic"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        214
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/sonic_damaged"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        115
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/ars"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        215
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/ars_damaged"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        116
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/chameleon"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        216
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/chameleon_damaged"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        117
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/input"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        217
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/input_damaged"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        118
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/invisibility"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        218
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/invisibility_damaged"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        119
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/locator"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        219
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/locator_damaged"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        120
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/materialisation"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        220
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/materialisation_damaged"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        121
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/memory"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        221
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/memory_damaged"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        122
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/random"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        222
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/random_damaged"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        123
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/scanner"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        223
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/scanner_damaged"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        124
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/stattenheim"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        224
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/stattenheim_damaged"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        125
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/telepathic"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        225
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/telepathic_damaged"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        126
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/temporal"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        226
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/temporal_damaged"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        127
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/diamond"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        128
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/sonic"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        129
+                    ]
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "tardis:item/circuit/scanner"
+                }
+            },
+            {
+                "when": {
+                    "floats": [
+                        130
+                    ]
+                },
+                "model":{
+                    "type":"minecraft:model",
+                    "model":"tardis:item/circuit/gallifrey"
+                }
+            }
+        ]
+    }
+}
