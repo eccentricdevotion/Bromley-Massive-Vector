@@ -18,7 +18,27 @@
 							"italic": false,
 							"obfuscated": false,
 							"strikethrough": false,
-							"text": "Atomic elements",
+							"text": "Creative",
+							"underlined": false
+						}
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/chemistry/creative"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						{
+							"bold": false,
+							"color": "white",
+							"italic": false,
+							"obfuscated": false,
+							"strikethrough": false,
+							"text": "Atomic Elements",
 							"underlined": false
 						}
 					]

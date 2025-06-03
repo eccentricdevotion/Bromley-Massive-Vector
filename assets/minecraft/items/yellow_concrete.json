@@ -18,7 +18,27 @@
 							"italic": false,
 							"obfuscated": false,
 							"strikethrough": false,
-							"text": "Lab table",
+							"text": "Lab",
+							"underlined": false
+						}
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/chemistry/lab"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						{
+							"bold": false,
+							"color": "white",
+							"italic": false,
+							"obfuscated": false,
+							"strikethrough": false,
+							"text": "Lab Table",
 							"underlined": false
 						}
 					]

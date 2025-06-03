@@ -38,7 +38,27 @@
 							"italic": false,
 							"obfuscated": false,
 							"strikethrough": false,
-							"text": "Material reducer",
+							"text": "Reducer",
+							"underlined": false
+						}
+					]
+				},
+				"model": {
+					"type": "minecraft:model",
+					"model": "tardis:item/chemistry/reducer"
+				}
+			},
+			{
+				"when": {
+					"text": "",
+					"extra": [
+						{
+							"bold": false,
+							"color": "white",
+							"italic": false,
+							"obfuscated": false,
+							"strikethrough": false,
+							"text": "Material Reducer",
 							"underlined": false
 						}
 					]
