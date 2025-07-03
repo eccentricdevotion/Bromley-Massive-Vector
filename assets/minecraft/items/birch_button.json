@@ -5,23 +5,14 @@
 		"component": "minecraft:custom_name",
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "minecraft:block/birch_button"
+			"model": "minecraft:block/birch_button_inventory"
 		},
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						{
-							"bold": false,
-							"color": "white",
-							"italic": false,
-							"obfuscated": false,
-							"strikethrough": false,
-							"text": "Handles",
-							"underlined": false
-						}
-					]
+					"color": "white",
+					"text": "Handles",
+					"italic": false
 				},
 				"model": {
 					"type": "minecraft:model",

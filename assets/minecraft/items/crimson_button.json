@@ -5,15 +5,12 @@
 		"component": "minecraft:custom_name",
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "minecraft:block/crimson_button"
+			"model": "minecraft:block/crimson_button_inventory"
 		},
 		"cases": [
 			{
 				"when": {
-					"text": "",
-					"extra": [
-						"Davros"
-					]
+					"text": "Davros"
 				},
 				"model": {
 					"type": "minecraft:model",
