@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "item/pufferfish",
 		"1": "item/bucket_side",
-		"2": "block/water_still",
+		"2": "tardis:item/block/water_still",
 		"particle": "item/bucket_side"
 	},
 	"elements": [

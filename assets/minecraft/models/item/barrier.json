@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/acacia_planks",
+		"1": "tardis:item/block/acacia_planks",
 		"2": "item/barrier",
-		"particle": "block/acacia_planks"
+		"particle": "tardis:item/block/acacia_planks"
 	},
 	"elements": [
 		{

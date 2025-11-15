@@ -6,7 +6,7 @@
 		"1": "minecraft:block/jungle_log",
 		"2": "minecraft:block/anvil",
 		"3": "minecraft:block/grass_block_top",
-		"4": "minecraft:item/firework_rocket",
+		"4": "tardis:block/firework_rocket",
 		"particle": "minecraft:block/acacia_log"
 	},
 	"elements": [

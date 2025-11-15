@@ -4,7 +4,7 @@
 		"0": "tardis:item/chemistry/powder_brown",
 		"1": "minecraft:item/bowl_side",
 		"2": "minecraft:item/baked_potato",
-		"3": "minecraft:block/brown_mushroom",
+		"3": "tardis:item/block/brown_mushroom",
 		"4": "minecraft:item/carrot",
 		"5": "minecraft:item/cooked_rabbit",
 		"particle": "tardis:item/chemistry/powder_brown"

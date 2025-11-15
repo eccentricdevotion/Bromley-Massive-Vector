@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "minecraft:item/minecart/chest_minecart",
-		"1": "minecraft:block/furnace_front",
-		"2": "minecraft:block/furnace_side",
-		"3": "minecraft:block/furnace_top",
+		"1": "tardis:item/block/furnace_front",
+		"2": "tardis:item/block/furnace_side",
+		"3": "tardis:item/block/furnace_top",
 		"particle": "minecraft:item/minecart/chest_minecart"
 	},
 	"elements": [

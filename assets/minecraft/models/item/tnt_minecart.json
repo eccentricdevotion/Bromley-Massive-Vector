@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "minecraft:item/minecart/chest_minecart",
-		"1": "minecraft:block/tnt_side",
-		"3": "minecraft:block/tnt_top",
+		"1": "tardis:item/block/tnt_side",
+		"3": "tardis:item/block/tnt_top",
 		"particle": "minecraft:item/minecart/chest_minecart"
 	},
 	"elements": [

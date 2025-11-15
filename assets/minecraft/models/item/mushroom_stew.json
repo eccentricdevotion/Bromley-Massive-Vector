@@ -2,8 +2,8 @@
 	"textures": {
 		"0": "tardis:item/chemistry/powder_brown",
 		"1": "minecraft:item/bowl_side",
-		"2": "minecraft:block/brown_mushroom",
-		"3": "minecraft:block/red_mushroom",
+		"2": "tardis:item/block/brown_mushroom",
+		"3": "tardis:item/block/red_mushroom",
 		"particle": "tardis:item/chemistry/powder_brown"
 	},
 	"elements": [
