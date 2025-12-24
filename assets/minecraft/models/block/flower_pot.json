@@ -1,6 +1,6 @@
 {
     "ambientocclusion": false,
-    "parent": "tardis:block/small_block",
+    "parent": "tardis:item/block/small_block",
     "display": {
         "gui": {
             "rotation": [ 30, 45, 0 ],
