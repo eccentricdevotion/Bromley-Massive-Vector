@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-            "particle": "tardis:block/seed/polished_andesite",
-            "all": "tardis:block/seed/polished_andesite"
-    }
-}

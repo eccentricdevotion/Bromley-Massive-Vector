@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:block/cube_all",
-	"textures": {
-		"all": "tardis:block/lights/classic_offset_cloister"
-	}
-}
