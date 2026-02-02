@@ -5,65 +5,52 @@
         "component": "minecraft:custom_name",
         "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:block/cyan_glazed_terracotta"
+            "model": "minecraft:item/music_disc_relic"
         },
         "cases": [
             {
                 "when": {
-                    "color": "gold",
-                    "text": "TARDIS Seed Block",
-                    "italic": false
+                    "text": "Tetris"
                 },
                 "model": {
                     "type": "minecraft:model",
-                    "model": "tardis:item/seed/legacy_eleventh"
+                    "model": "tardis:item/disks/tetris_disk"
                 }
             },
             {
                 "when": {
-                    "color": "gold",
-                    "text": "Legacy Eleventh",
-                    "italic": false
+                    "text": "Pong"
                 },
                 "model": {
                     "type": "minecraft:model",
-                    "model": "tardis:item/seed/legacy_eleventh"
+                    "model": "tardis:item/disks/pong_disk"
                 }
             },
             {
                 "when": {
-                    "text": "Legacy 11th Doctor's Console"
+                    "text": "Tic Tac Toe"
                 },
                 "model": {
                     "type": "minecraft:model",
-                    "model": "tardis:item/seed/legacy_eleventh"
+                    "model": "tardis:item/disks/tictactoe_disk"
                 }
             },
             {
                 "when": {
-                    "text": "Console"
+                    "text": "Stone Magma Ice"
                 },
                 "model": {
                     "type": "minecraft:model",
-                    "model": "tardis:item/seed/eleventh"
+                    "model": "tardis:item/disks/stonemagmaice_disk"
                 }
             },
             {
                 "when": {
-                    "text": "Player"
+                    "text": "Connect 4"
                 },
                 "model": {
                     "type": "minecraft:model",
-                    "model": "tardis:item/gui/arrow/less"
-                }
-            },
-            {
-                "when": {
-                    "text": "Nought"
-                },
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "tardis:item/gui/game/nought"
+                    "model": "tardis:item/disks/connect_four_disk"
                 }
             }
         ]
